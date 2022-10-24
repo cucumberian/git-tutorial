@@ -45,4 +45,8 @@ a = [1, 2, 3]
 print(sum(a)/ len(a))
 ```
 
-## bla-bla bla
+## images
+!Квадратный скобки и круглые для ссылки
+----
+
+![Альтернативный текст](https://cdn.spacetelescope.org/archives/images/large/potw2243a.jpg)
