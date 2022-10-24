@@ -38,9 +38,15 @@ ___
 
 
 ## How add code
+
+Для добавления кода на любом языке надо обрамить код тремя тильдами с обоих сторон.
 ___
 
-```python
+\```python
+
 a = [1, 2, 3]
+
 print(sum(a)/ len(a))
-```
+\```
+
+![Альтернативный текст](https://cdn.spacetelescope.org/archives/images/large/potw2243a.jpg)
