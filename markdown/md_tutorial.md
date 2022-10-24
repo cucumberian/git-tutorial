@@ -48,5 +48,3 @@ a = [1, 2, 3]
 
 print(sum(a)/ len(a))
 \```
-
-![Альтернативный текст](https://cdn.spacetelescope.org/archives/images/large/potw2243a.jpg)
