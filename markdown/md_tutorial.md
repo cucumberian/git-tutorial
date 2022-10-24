@@ -25,18 +25,26 @@ Add --- or ___ 3 or more times
 ## How add lists
 ___
 
+Чтобы добавить список, необходимо поставить __*__, __-__ или __+__
+
+```markdown
+- одын
+- два
+- тры
+```
+
 * element 
 * element
 * element
 
+Для добавления нумерованого списка делаем, как в приере:
+```markdown
 1. first
     1. first
     2. second
-
 2. second
 3. third
-
-# random text
+```
 
 ## How add code
 ___
