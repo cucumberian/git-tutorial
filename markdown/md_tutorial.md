@@ -59,3 +59,12 @@ print(sum(a)/ len(a))
 ----
 
 ![Альтернативный текст](https://cdn.spacetelescope.org/archives/images/large/potw2243a.jpg)
+
+Картинка с сылкой делается так:
+[![](https://cdn.spacetelescope.org/archives/images/large/potw2243a.jpg)](https://github.com)
+
+___
+
+## HTML and colors
+В `markdown` можно использовать `html` теги со стилями.
+<p style="background-color: white; color: black;">Текст между <b>html</b> тегами.</p>
